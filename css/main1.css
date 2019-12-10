@@ -40,7 +40,7 @@
 
 body {
 	color: #777777;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Nunito', sans-serif;
 	font-size: 14px;
 	font-weight: 300;
 	line-height: 1.5em;
@@ -130,7 +130,7 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Nunito', sans-serif;
 	color: #222222;
 	line-height: 1.5em;
 	margin-bottom: 0;
@@ -1327,12 +1327,14 @@ section.content img {
 .footer-social a:hover {
 	color: #00b8de;
 }
-
+.font-family-nunito {
+	font-family: 'Nunito', sans-serif;
+}
 .banner-area {
 	display: table;
 	width: 100%;
 	height: 100vh;
-	background: url(../img/kidfans.png) top center;
+	background: url(../img/kidfans2.png) top center;
 	background-size: cover;
 }
 @media (min-width: 1024px) {
